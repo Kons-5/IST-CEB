@@ -1,6 +1,6 @@
 # CEB - Electronic Circuits
 
-This repository contains `CEB.pdf`, the PDF summarizing the entire content covered in a Electronic Circuits class.
+This repository contains `CEB.pdf`, a work-in-progress PDF that aims to summarize the content covered in a Electronic Circuits class.
 
 ## Key contents
 
