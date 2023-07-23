@@ -10,7 +10,7 @@ This repository contains `CEB.pdf`, a work-in-progress PDF that aims to summariz
 - Single-stage basic amplifiers; small-signal models; frequency response  
 - Differential and Multistage Amplifiers (Current sources, Differential pair, Output stages, Thermal properties of devices)
 - Structure of an operational or transconductance amplifier (OPAMP and OTA)
-- NMOS and CMOS logical families (NMOS logic gates, CMOS logic gates (primitive, complex, passing, 3-state tri-state logic))
+- NMOS and CMOS logical families (primitive, complex, passing, 3-state tri-state logic)
 - Introduction to the Design of Digital Electronic Systems (Design flow of digital systems, FPGA Architectures, Logic circuit description languages)
 
 ## License
